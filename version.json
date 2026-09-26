@@ -1,5 +1,5 @@
 {
-    "download_url":  "https://raw.githubusercontent.com/kazeau11/Lyfe/main/lyfe.exe",
-    "sha256":  "0dcc524ef2c698b6127cda324871dbc6b3a5bdd22a0364c95db16774b34746a4",
-    "version":  "1.0.19"
+    "version": "1.0.20",
+    "download_url": "https://raw.githubusercontent.com/kazeau11/Lyfe/main/lyfe.exe",
+    "sha256": "b11d4714aaa12a2292feab6575de29c841b2da894047ff9de7438698ab57c131"
 }
